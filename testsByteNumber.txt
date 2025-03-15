@@ -1,0 +1,74 @@
+line 1 byte 0 b'\xc2\xa9 IBM Corporation 2023. All rights reserved.\n' byte 45
+line 2 byte 46 b'From Coursera.org IBM Data Analyst course\n' byte 87
+line 3 byte 88 b'position, so be ready to coach yourself all the way.\n' byte 140
+line 4 byte 141 b'\n' byte 141
+line 5 byte 142 b'\x16\x1b[C\x1b[C\x1b[\n' byte 151
+line 6 byte 152 b'\n' byte 152
+line 7 byte 153 b'1\n' byte 154
+line 8 byte 155 b'After the Interview\n' byte 174
+line 9 byte 175 b'\n' byte 175
+line 10 byte 176 b'2\n' byte 177
+line 11 byte 178 b'"We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America"\n' byte 506
+line 12 byte 507 b'\n' byte 507
+line 13 byte 508 b'In Congress, July 4, 1776\n' byte 533
+line 14 byte 534 b"The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.\n" byte 1008
+line 15 byte 1009 b'\n' byte 1009
+line 16 byte 1010 b'We hold these truths \\u2010 to be self-evident, that \x93A B \x16C \\u202f Dted equal, that they are endowed by their Creator with certain unalienable Rights\n' byte 1160
+line 17 byte 1161 b', that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed\n' byte 1355
+line 18 byte 1356 b'\n' byte 1356
+line 19 byte 1357 b'### This is from Coursera.org IBM Data Analyst \n' byte 1404
+line 20 byte 1405 b'happen next if you receive an offer \x96 or if you don\x92t. It\x92s useful to take time\n' byte 1484
+line 21 byte 1485 b'time. Remember, your \x93job\x94 of finding a job isn\x92t over until you secure a new\n' byte 1562
+line 22 byte 1563 b'position, so be ready to coach yourself all the way.\n' byte 1615
+line 23 byte 1616 b'position, so be ready to coach yourself all the way.\n' byte 1668
+line 24 byte 1669 b'\n' byte 1669
+line 25 byte 1670 b'\n' byte 1670
+line 26 byte 1671 b'1\n' byte 1672
+line 27 byte 1673 b'\n' byte 1673
+line 28 byte 1674 b'This is from Coursera.org University Of Michigan Applied Data Science:\n' byte 1744
+line 29 byte 1745 b' Find the maximum heart rate achieved during exercise for different age groups (e.g., 30-40, 40-50, etc.).\n' byte 1851
+line 30 byte 1852 b'\n' byte 1852
+line 31 byte 1853 b'    Calculate the percentage of patients with fasting blood sugar greater than 120 mg/dl.\n' byte 1942
+line 32 byte 1943 b'\n' byte 1943
+line 33 byte 1944 b'Find the ratio of patients with abnormal resting electrocardiographic results to those with normal results.\n' byte 2051
+line 34 byte 2052 b'3701,3705p\n' byte 2062
+line 35 byte 2063 b' Find the maximum heart rate achieved during exercise for different age groups (e.g., 30-40, 40-50, etc.).\n' byte 2169
+line 36 byte 2170 b'    Calculate the percentage of patients with fasting blood sugar greater than 120 mg/dl.\n' byte 2259
+line 37 byte 2260 b'Find the ratio of patients with abnormal resting electrocardiographic results to those with normal results.\n' byte 2367
+line 38 byte 2368 b'Count the number of patients with reversible thalassemia detected by thallium stress testing.\n' byte 2461
+line 39 byte 2462 b'   alculate the average age of patients who experienced chest pain during diagnosis.\n' byte 2546
+line 40 byte 2547 b'\n' byte 2547
+line 41 byte 2548 b'Google Search Labs | AI Overview (and wikipedia)\n' byte 2596
+line 42 byte 2597 b'Examples of international text with special characters include: "caf\xe9" (French with the "\xe9" accent), "a\xf1o" (Spanish with the "\xf1"), "Stra\xdfe" (German with the "\xe4"), "\xe7\xe3" (Portuguese with the "\xe7"), "\xf6" (German with the "\xf6"), "\xe0" (Italian with the "\xe0"), "\xe6" (Danish with the "\xe6") - essentially any text containing diacritics like accents, umlauts, or other non-standard characters beyond the basic English alphabet. \n' byte 3009
+line 43 byte 3010 b'Further examples across different languages:\n' byte 3054
+line 44 byte 3055 b'French: "\xe9clater" (with the acute accent on "e")\n' byte 3103
+line 45 byte 3104 b'Spanish: "pi\xf1ata" (with the "\xf1")\n' byte 3136
+line 46 byte 3137 b'German: "M\xf6hre" (with the umlaut on "o")\n' byte 3177
+line 47 byte 3178 b'Portuguese: "ma\xe7\xe3" (with the cedilla on "c")\n' byte 3222
+line 48 byte 3223 b'Italian: "gi\xe0" (with the grave accent on "a")\n' byte 3268
+line 49 byte 3269 b'Swedish: "\xe5ka" (with the ring above "a")\n' byte 3309
+line 50 byte 3310 b'Polish: "sc" (with the "s" with a comma above) \n' byte 3357
+line 51 byte 3358 b'\n' byte 3358
+line 52 byte 3359 b'called \xd1\x83\xd0\xba\xd1\x80\xd0\xb0\xd1\x97\xd0\xbd\xd1\x81\xd1\x8c\xd0\xba\xd0\xb0 \xd0\xb0\xd0\xb1\xd0\xb5\xd1\x82\xd0\xba\xd0\xb0 (IPA: [\xca\x8akr\xc9\x90\xcb\x88jin\xca\xb2s\xca\xb2k\xc9\x90 \xc9\x90\xcb\x88b\xc9\x9btk\xc9\x90]; tr. ukrainska abetka), from the initial letters \xd0\xb0 (tr. a) and \xd0\xb1 (tr. b); \xd0\xb0\xd0\xbb\xd1\x84\xd0\xb0\xd0\xb2\xd1\x96\xd1\x82 (tr. alfavit); or, archaically, \xd0\xb0\xd0\xb7\xd0\xb1\xd1\x83\xd0\xba\xd0\xb0\n' byte 3575
+line 53 byte 3576 b'\n' byte 3576
+line 54 byte 3577 b'Here are some examples of Ukrainian words and phrases:\n' byte 3631
+line 55 byte 3632 b'\xd0\x9f\xd1\x80\xd0\xb8\xd0\xb2\xd1\x96\xd1\x82: (pryvit) An informal greeting that means "hello" or "hi" \n' byte 3703
+line 56 byte 3704 b'\xd0\x94\xd0\xbe\xd0\xb1\xd1\x80\xd0\xbe \xd1\x80\xd0\xb0\xd0\xbd\xd0\xba\xd1\x83: (dobroho ranku) A greeting that means "good morning" \n' byte 3780
+line 57 byte 3781 b'\xd0\x9d\xd0\xb0\xd0\xb4obranich: (nadobranich) A greeting that means "good night" \n' byte 3846
+line 58 byte 3847 b'\xd0\x94\xd1\x8f\xd0\xba\xd1\x83\xd1\x8e: (d\'akuju) A way to say "thank you" \n' byte 3894
+line 59 byte 3895 b'\xd0\x91\xd1\x83\xd0\xb4\xd1\x8c \xd0\xbb\xd0\xb0\xd1\x81\xd0\xba\xd0\xb0: (bud laska) A way to say "please" or "here you are" \n' byte 3968
+line 60 byte 3969 b'Google Search Labs | AI Overview (and wikipedia)\n' byte 4017
+line 61 byte 4018 b'\n' byte 4018
+line 62 byte 4019 b'An example of Vietnamese text in UTF-8 encoding would be: "Ch\xc3\xa0o m\xe1\xbb\xabng b\xe1\xba\xa1n \xc4\x91\xe1\xba\xbfn v\xe1\xbb\x9bi Vi\xe1\xbb\x87t Nam" which translates to "Welcome to Vietnam" and includes special Vietnamese characters like "\xc4\x83", "\xc3\xaa", and "\xc6\xb0" that can be properly displayed using UTF-8 encoding. \n' byte 4285
+line 63 byte 4286 b'Key points about this example:\n' byte 4316
+line 64 byte 4317 b'Special characters:\n' byte 4336
+line 65 byte 4337 b'Vietnamese language utilizes diacritics like "\xc4\x83", "\xc3\xa2", "\xc3\xaa", "\xc3\xb4", "\xc6\xa1", "\xc6\xb0", and "\xc4\x91" which are all part of the UTF-8 character set. \n' byte 4474
+line 66 byte 4475 b'\n' byte 4475
+line 67 byte 4476 b'Korean characters (Hangul) are part of the Unicode standard, which is fully supported by UTF-8 encoding. \n' byte 4581
+line 68 byte 4582 b'\x16Each Korean character in UTF-8 typically takes up 3 bytes, as they fall within the multi-byte range of the encoding. \n' byte 4700
+line 69 byte 4701 b'Example breakdown:\n' byte 4719
+line 70 byte 4720 b'"\xec\x95\x88" (an) = "EC 95 8C" \n' byte 4744
+line 71 byte 4745 b'"\xeb\x85\x95" (nyeong) = "EB 82 98" \n' byte 4773
+line 72 byte 4774 b'"\xed\x95\x98" (ha) = "EC 95 80" \n' byte 4798
+line 73 byte 4799 b'"\xec\x84\xb8" (se) = "EC 95 8C" \n' byte 4823
+line 74 byte 4824 b'"\xec\x9a\x94" (yo) = "EB 82 98" \n' byte 4848

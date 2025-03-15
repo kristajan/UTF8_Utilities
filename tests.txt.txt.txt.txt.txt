@@ -1,0 +1,89 @@
+CR IBM Corporation 2023. All rights reserved. From Coursera.org IBM Data Analyst 
+course position, so be ready to coach yourself all the way.
+
+-SECTN[C?[
+
+1 After the Interview
+
+2 "We the People of the United States, in Order to form a more perfect Union, 
+establish Justice, insure domestic Tranquility, provide for the common defense, 
+promote the general Welfare, and secure the Blessings of Liberty to ourselves 
+and our Posterity, do ordain and establish this Constitution for the United States 
+of America"
+
+In Congress, July 4, 1776 The unanimous Declaration of the thirteen united States 
+of America, When in the Course of human events, it becomes necessary for one 
+people to dissolve the political bands which have connected them with another, 
+and to assume among the powers of the earth, the separate and equal station to 
+which the Laws of Nature and of Nature's God entitle them, a decent respect to 
+the opinions of mankind requires that they should declare the causes which impel 
+them to the separation.
+
+We hold these truths - to be self-evident, that ?A B -C ? Dted equal, that they 
+are endowed by their Creator with certain unalienable Rights , that among these 
+are Life, Liberty and the pursuit of Happiness.--That to secure these rights, 
+Governments are instituted among Men, deriving their just powers from the consent 
+of the governed
+
+### This is from Coursera.org IBM Data Analyst  happen next if you receive an 
+offer ? or if you don?t. It?s useful to take time time. Remember, your ?job? 
+of finding a job isn?t over until you secure a new position, so be ready to coach 
+yourself all the way. position, so be ready to coach yourself all the way.
+
+1
+
+This is from Coursera.org University Of Michigan Applied Data Science:  Find 
+the maximum heart rate achieved during exercise for different age groups (e.g., 
+30-40, 40-50, etc.).
+
+    Calculate the percentage of patients with fasting blood sugar greater than 
+120 mg/dl.
+
+Find the ratio of patients with abnormal resting electrocardiographic results 
+to those with normal results. 3701,3705p  Find the maximum heart rate achieved 
+during exercise for different age groups (e.g., 30-40, 40-50, etc.).     Calculate 
+the percentage of patients with fasting blood sugar greater than 120 mg/dl.
+Find the ratio of patients with abnormal resting electrocardiographic results 
+to those with normal results. Count the number of patients with reversible thalassemia 
+detected by thallium stress testing.    alculate the average age of patients 
+who experienced chest pain during diagnosis.
+
+Google Search Labs | AI Overview (and wikipedia) Examples of international text 
+with special characters include: "caf?" (French with the "?" accent), "a?o" (Spanish 
+with the "?"), "Stra?e" (German with the "?"), "??" (Portuguese with the "?"), 
+"?" (German with the "?"), "?" (Italian with the "?"), "?" (Danish with the "?") 
+- essentially any text containing diacritics like accents, umlauts, or other 
+non-standard characters beyond the basic English alphabet.  Further examples 
+across different languages: French: "?clater" (with the acute accent on "e")
+
+Spanish: "pi?ata" (with the "?") German: "M?hre" (with the umlaut on "o") Portuguese: 
+"ma??" (with the cedilla on "c") Italian: "gi?" (with the grave accent on "a")
+
+Swedish: "?ka" (with the ring above "a") Polish: "sc" (with the "s" with a comma 
+above) 
+
+called ???????????????????? ???????????? (IPA: [??kr????jin??s??k?? ????b??tk??]; 
+tr. ukrainska abetka), from the initial letters ?? (tr. a) and ?? (tr. b); ?????????????? 
+(tr. alfavit); or, archaically, ????????????
+
+Here are some examples of Ukrainian words and phrases: ????????????: (pryvit) 
+An informal greeting that means "hello" or "hi"  ?????????? ??????????: (dobroho 
+ranku) A greeting that means "good morning"  ??????obranich: (nadobranich) A 
+greeting that means "good night"  ??????????: (d'akuju) A way to say "thank you" 
+???????? ??????????: (bud laska) A way to say "please" or "here you are"  Google 
+Search Labs | AI Overview (and wikipedia)
+
+An example of Vietnamese text in UTF-8 encoding would be: "Ch??o m???ng b???n 
+?????n v???i Vi???t Nam" which translates to "Welcome to Vietnam" and includes 
+special Vietnamese characters like "??", "??", and "??" that can be properly 
+displayed using UTF-8 encoding.  Key points about this example: Special characters:
+
+Vietnamese language utilizes diacritics like "??", "??", "??", "??", "??", "??", 
+and "??" which are all part of the UTF-8 character set. 
+
+Korean characters (Hangul) are part of the Unicode standard, which is fully supported 
+by UTF-8 encoding.  -Each Korean character in UTF-8 typically takes up 3 bytes, 
+as they fall within the multi-byte range of the encoding.  Example breakdown:
+
+"???" (an) = "EC 95 8C"  "???" (nyeong) = "EB 82 98"  "???" (ha) = "EC 95 80" 
+"???" (se) = "EC 95 8C"  "???" (yo) = "EB 82 98" 
